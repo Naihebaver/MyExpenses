@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Владислав\.android\build-cache\8cbe3f4b70c213c87808472358eba6950652934c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudio\ExpenseTracker\app\build\intermediates\pre-dexed\debug\classes_545a38d6ca7d31f823eca658645ee1f4e51a41f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Владислав\.android\build-cache\9e7ba380405c6a73f2fb7f780a3d73b34b729298\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudio\ExpenseTracker\app\build\intermediates\pre-dexed\debug\classes_8b1c708421bd4367316f80b723d0821fc2799c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Владислав\.android\build-cache\0ac458345371abde81fed3f9119b415cb170a198\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudio\ExpenseTracker\app\build\intermediates\pre-dexed\debug\classes_2c3a8f899265ab7cb02244d62f407b5a07f33be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Владислав\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.82.2\c6325383149a08e5cb668bdc4d3c790708636e47\realm-android-0.82.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6325383149a08e5cb668bdc4d3c790708636e47">
+        <dex dex="D:\AndroidStudio\ExpenseTracker\app\build\intermediates\pre-dexed\debug\realm-android-0.82.2_85bba0b73ffc6a5d192d858d4b7f010b70abe830.jar" />
+    </item>
+
+</items>
